@@ -11,5 +11,7 @@
   <image src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/>
   
   <image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
+  <image src="https://assets.dio.me/NWp0ked1gAcRd2n_uPBhJUJVmS5mkR31t0YiPMYMdpA/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzdiODlmZGEyLTRhZjMtNGFlMC05OGJjLWFkMmI2NTg1NDkwOS5wbmc"  alt="Java"/>
   
 </div>
